@@ -2,7 +2,7 @@
   <img width="112" height="112" alt="Oxide" src="https://raw.githubusercontent.com/getoxide/oxide/main/assets/brand/oxide/png/avatar/512x512.png" />
 </p>
 
-<h1 align="center">getoxide</h1>
+<h1 align="center">Oxide</h1>
 
 <p align="center">
   <strong>Open-source tools for agentic engineering.</strong><br />
