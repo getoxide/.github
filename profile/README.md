@@ -36,10 +36,6 @@ It doesn't ship an agent of its own, and no code or prompt goes through a server
 | :-- | :-- | :-- |
 | Per-Turn, Uncommitted and Branch diffs backed by Checkpoints. A Verification Dossier says which checks ran, what stayed unverified and which risk signals fired — separate facts, never a single score. | Native adapters for Claude Code, Codex and Antigravity CLI behind one Thread, Model, Effort and Permission mode. Slash commands, skills, attachments and usage limits included. | Threads, Transcripts and Checkpoints stay in a local SQLite database. No telemetry. Dictation runs fully on-device. Your code goes only to the Provider you chose. |
 
-<p align="center">
-  <img alt="Oxide: a Thread with Claude Code in the centre, the Project's Threads on the left and the Diff Surface on the right" src="https://raw.githubusercontent.com/getoxide/oxide/main/assets/screenshots/oxide-thread.png" width="860" />
-</p>
-
 ## What's inside
 
 - **Diffs by Turn.** A Checkpoint at the start and end of every Turn shows exactly what that Turn changed, with line comments you can send back as one prompt or submit as a GitHub review.
